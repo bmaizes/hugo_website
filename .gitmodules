@@ -1,0 +1,4 @@
+[submodule "my_website/public"]
+	path = my_website/public
+	url = https://github.com/bmaizes/bmaizes.github.io.git
+	branch = main
