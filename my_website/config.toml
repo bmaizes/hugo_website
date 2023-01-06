@@ -4,7 +4,7 @@ baseURL = "https://bmaizes.github.io/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Ben's Site"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
