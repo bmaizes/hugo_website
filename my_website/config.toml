@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Ben's Logo?"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -187,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Ben's Cool Page"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "This is My New Hugo Site"
       # whether to use typeit animation for subtitle
